@@ -1,0 +1,20 @@
+#Ideas for this project.
+
+= This page is a short summery about project ideas. Implementations/ Pseudo codes will follow. =
+
+*1) DSL and back testing mechanism in Lua.
+
+*2) Complex chart pattern analysis using Prolog.
+
+*3) Complex Event Processing for logically complicated strategies.
+
+*4) Statistical analysis in Haskell.
+
+*5) Snippates/ Pseudo codes for important and frequently used parts in      trading algos.  
+
+*6) Self modifying algo with meta programming.
+
+*7) Data mining techniques using Eureka.
+
+*8) Use of Prolog as simple rule engine.
+
