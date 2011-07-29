@@ -1,0 +1,9 @@
+//Assignment
+class Hello2 {
+  public static void main(String[] args) {
+    String firstLine;
+    firstLine = "Hello, Again.";
+    System.out.print("The Value of the firstLine is  ");
+    System.out.println(firstLine);
+  }
+}

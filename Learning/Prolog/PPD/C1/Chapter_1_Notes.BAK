@@ -1,0 +1,10 @@
+Prolog programming based on the set of the facts together with the set of the
+conditions that the solution must satisfy. Computer can figure out for itself
+how to deduce from the facts given.
+//***************************************************************************
+
+For any X, if X is in Georgia, then X is in United States. (RULE)
+Atlanta is in Georgia. (FACT)
+Collection of such information is called as KNOWLEDGE BASE.
+//***************************************************************************
+
