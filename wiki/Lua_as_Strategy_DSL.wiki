@@ -20,6 +20,8 @@ This draft is expected to unfold in following sequence.
 
 * Suitable trading strategies where only tick data is available.
 
+* And whenever possible, we will start an open source project for this purpose
+
 = Details =
 
 
