@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#This page will have code nuts and bolts required in Algo Trading
 
 = Introduction =
 
