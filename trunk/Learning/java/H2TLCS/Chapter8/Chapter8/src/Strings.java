@@ -9,5 +9,4 @@ public class Strings {
 			System.out.println(bob);
 		}
 	}
-
 }
