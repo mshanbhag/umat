@@ -1,12 +1,15 @@
 public class Traversal {
 	public static void main(String[] args) {
-		int index = 0;
-		String fruit = "Banana";
-		int length = fruit.length();
-		while (index < length) {
-			char letter = fruit.charAt(index);
+		backwards("madhusoodan");
+	}
+
+	public static void backwards(String s) {
+		int index = s.length()-1;
+		System.out.println(index);
+		while (index >=0) {
+			char letter = s.charAt(index);
 			System.out.println(letter);
-			index = index + 1;
+			index = index -1;
 		}
 	}
 }
