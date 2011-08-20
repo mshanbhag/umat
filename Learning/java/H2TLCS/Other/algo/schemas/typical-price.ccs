@@ -1,7 +1,0 @@
-<StreamSchema xmlns="http://www.sybase.com/cpl/2004/04/" Name="SchemaTypicalPrice">
- <Columns>
-  <Column Name="Symbol" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="StringColumnType"/>
-  <Column Name="IntervalNumber" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="LongColumnType"/>
-  <Column Name="TypicalPrice" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="FloatColumnType"/>
- </Columns>
-</StreamSchema>
