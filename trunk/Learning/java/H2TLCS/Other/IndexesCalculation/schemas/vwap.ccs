@@ -1,0 +1,6 @@
+<StreamSchema xmlns="http://www.sybase.com/cpl/2004/04/" Name="Vwap">
+ <Columns>
+  <Column Name="Symbol" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="StringColumnType"/>
+  <Column Name="Vwap" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="FloatColumnType"/>
+ </Columns>
+</StreamSchema>

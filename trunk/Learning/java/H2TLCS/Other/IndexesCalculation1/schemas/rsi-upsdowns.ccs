@@ -1,0 +1,7 @@
+<StreamSchema xmlns="http://www.sybase.com/cpl/2004/04/" Name="SchemaRsiUpsDowns">
+ <Columns>
+  <Column Name="Symbol" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="StringColumnType"/>
+  <Column Name="UpPrice" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="FloatColumnType"/>
+  <Column Name="DownPrice" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="FloatColumnType"/>
+ </Columns>
+</StreamSchema>

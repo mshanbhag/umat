@@ -1,0 +1,21 @@
+-- Define CCL Module MyModule
+--
+--
+CREATE MODULE MyModule
+
+// TODO: module's parameters
+CREATE PARAMETER INTEGER MyParam = 42;
+
+// TODO: module's input streams
+CREATE INPUT STREAM MyStreamIn SCHEMA (Value INTEGER);
+
+// TODO: module's output stream
+CREATE OUTPUT STREAM MyStreamOut SCHEMA (Value INTEGER);
+
+// TODO: module's queries
+INSERT INTO MyStreamOut
+SELECT *
+FROM MyStreamIn
+WHERE Value > $MyParam;
+
+END MODULE;
