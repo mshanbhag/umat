@@ -1,0 +1,122 @@
+<DefineCPLModule xmlns="http://www.sybase.com/cpl/2004/04/" Name="Finance" CplVersion="2">
+ <Interface>
+  <Inputs>
+   <Input Name="StreamTrades" StreamSchema="../schemas/trades.ccs"/>
+   <Input Name="StreamRsiInitData" StreamSchema="../schemas/rsi-upsdownsavgs.ccs"/>
+  </Inputs>
+  <Outputs>
+   <Output Name="StreamRsi" StreamSchema="../schemas/rsi.ccs"/>
+   <Output Name="StreamCci" StreamSchema="../schemas/cci.ccs"/>
+   <Output Name="StreamCompressedTradesByTick" StreamSchema="../schemas/compressed-trades.ccs"/>
+   <Output Name="StreamCompressedTrades" StreamSchema="../schemas/compressed-trades.ccs"/>
+   <Output Name="StreamVwap" StreamSchema="../schemas/vwap.ccs"/>
+  </Outputs>
+ </Interface>
+ <Body>
+  <Queries>
+   <Query Name="Query">
+    <QueryText>--
+-- Sybase CEP Example - IndexesCalculation
+--
+-- This is just a container for loaded sub-modules that
+-- calculate misc. financial indexes.
+--
+
+
+</QueryText>
+   </Query>
+  </Queries>
+  <LoadModules>
+   <LoadModule Name="CompressedTrades" ExternalName="../modules/compressed-trades.ccl">
+    <InputValues>
+     <InputValue Name="InTrades" Value="StreamTrades"/>
+    </InputValues>
+    <OutputValues>
+     <OutputValue Name="OutCompressedTradesByTick" Value="StreamCompressedTradesByTick"/>
+     <OutputValue Name="OutCompressedTrades" Value="StreamCompressedTrades"/>
+    </OutputValues>
+    <ParamValues>
+     <ParamValue Name="IntervalSize" Value="15 seconds"/>
+    </ParamValues>
+   </LoadModule>
+   <LoadModule Name="Rsi" ExternalName="../modules/rsi.ccl">
+    <InputValues>
+     <InputValue Name="InTrades" Value="StreamTrades"/>
+     <InputValue Name="InCompressedTrades" Value="StreamCompressedTrades"/>
+     <InputValue Name="InPrevUpsDownsAvgsInit" Value="StreamRsiInitData"/>
+    </InputValues>
+    <OutputValues>
+     <OutputValue Name="OutRsi" Value="StreamRsi"/>
+    </OutputValues>
+    <ParamValues>
+     <ParamValue Name="IntervalSize" Value="15"/>
+     <ParamValue Name="IntervalsNumber" Value="10"/>
+    </ParamValues>
+   </LoadModule>
+   <LoadModule Name="Cci" ExternalName="../modules/cci.ccl">
+    <InputValues>
+     <InputValue Name="InTrades" Value="StreamTrades"/>
+    </InputValues>
+    <OutputValues>
+     <OutputValue Name="OutCci" Value="StreamCci"/>
+    </OutputValues>
+    <ParamValues>
+     <ParamValue Name="IntervalSize" Value="15 seconds"/>
+    </ParamValues>
+   </LoadModule>
+   <LoadModule Name="Vwap" ExternalName="vwap.ccl">
+    <InputValues>
+     <InputValue Name="InTrades" Value="StreamTrades"/>
+    </InputValues>
+    <OutputValues>
+     <OutputValue Name="OutVwap" Value="StreamVwap"/>
+    </OutputValues>
+    <ParamValues>
+     <ParamValue Name="VwapWindow" IsDefault="true" Value="15 seconds"/>
+    </ParamValues>
+   </LoadModule>
+  </LoadModules>
+  <LoadAdapters>
+   <LoadAdapter Name="AdapterReadTrades" AdapterType="ReadFromCsvFileAdapterType" xmlns:ns1="http://www.sybase.com/cpx/2004/03/" ModuleType="ns1:AdapterType">
+    <OutputValues>
+     <OutputValue Name="Out" Value="StreamTrades"/>
+    </OutputValues>
+    <ParamValues>
+     <ParamValue Name="Filename" Value="examples/Finance/IndexesCalculation/data/trades.csv"/>
+     <ParamValue Name="LoopCount" Value="10000"/>
+     <ParamValue Name="TimestampColumn" Value="Yes"/>
+     <ParamValue Name="TitleRow" Value="Yes"/>
+     <ParamValue Name="UseCurrentTimestamp" Value="Yes"/>
+     <ParamValue Name="TimestampColumnFormat" Value=""/>
+     <ParamValue Name="TimestampBase" Value=""/>
+     <ParamValue Name="Rate" Value=""/>
+     <ParamValue Name="CsvDelimiterString" Value=","/>
+     <ParamValue Name="CsvLineContinuationCharacter" Value="^"/>
+     <ParamValue Name="CsvQuoteCharacters" Value="'&quot;"/>
+     <ParamValue Name="CsvNullString" Value="NULL"/>
+     <ParamValue Name="CsvLineTerminatorChar" Value="\n"/>
+    </ParamValues>
+   </LoadAdapter>
+   <LoadAdapter Name="AdapterReadRsiInitData" AdapterType="ReadFromCsvFileAdapterType" xmlns:ns1="http://www.sybase.com/cpx/2004/03/" ModuleType="ns1:AdapterType">
+    <OutputValues>
+     <OutputValue Name="Out" Value="StreamRsiInitData"/>
+    </OutputValues>
+    <ParamValues>
+     <ParamValue Name="Filename" Value="examples/Finance/IndexesCalculation/data/rsi-init.csv"/>
+     <ParamValue Name="LoopCount" Value="1"/>
+     <ParamValue Name="TimestampColumn" Value="Yes"/>
+     <ParamValue Name="TitleRow" Value="Yes"/>
+     <ParamValue Name="UseCurrentTimestamp" Value="Yes"/>
+     <ParamValue Name="TimestampColumnFormat" Value=""/>
+     <ParamValue Name="TimestampBase" Value=""/>
+     <ParamValue Name="Rate" Value=""/>
+     <ParamValue Name="CsvDelimiterString" Value=","/>
+     <ParamValue Name="CsvLineContinuationCharacter" Value="^"/>
+     <ParamValue Name="CsvQuoteCharacters" Value="'&quot;"/>
+     <ParamValue Name="CsvNullString" Value="NULL"/>
+     <ParamValue Name="CsvLineTerminatorChar" Value="\n"/>
+    </ParamValues>
+   </LoadAdapter>
+  </LoadAdapters>
+ </Body>
+</DefineCPLModule>
