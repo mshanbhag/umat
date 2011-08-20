@@ -1,7 +1,0 @@
-<StreamSchema xmlns="http://www.sybase.com/cpl/2004/04/" Name="SchemaAggregatePrice" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="StreamSchema" ClockColumn="">
- <Columns>
-  <Column Name="Symbol" xsi:type="StringColumnType"/>
-  <Column Name="CurrentPrice" xsi:type="FloatColumnType"/>
-  <Column Name="AggregatePrice" xsi:type="FloatColumnType"/>
- </Columns>
-</StreamSchema>

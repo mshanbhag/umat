@@ -1,9 +1,0 @@
-<StreamSchema xmlns="http://www.sybase.com/cpl/2004/04/" Name="Summary">
- <Columns>
-  <Column Name="Symbol" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="StringColumnType"/>
-  <Column Name="High" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="FloatColumnType"/>
-  <Column Name="Low" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="FloatColumnType"/>
-  <Column Name="Close" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="FloatColumnType"/>
-  <Column Name="NumberOfTrades" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="IntegerColumnType"/>
- </Columns>
-</StreamSchema>
