@@ -15,5 +15,6 @@ public class Chap111 {
 		// another way to do same thing
 		Time t2 = new Time(11, 9, 3.14159);
 		System.out.println(Time.after(t1, t2));
+		System.out.println(Time.addTime(t1, t2));
 	}
 }
