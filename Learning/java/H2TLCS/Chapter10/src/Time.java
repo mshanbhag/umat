@@ -42,6 +42,28 @@ public class Time {
 		sum.hour = t1.hour + t2.hour;
 		sum.minute = t1.minute + t2.minute;
 		sum.second = t1.second + t2.second;
+
+		if (sum.second >= 60.0) {
+			sum.second -= 60.0;
+			sum.minute += 1;
+		}
+		if (sum.minute >= 60) {
+			sum.minute -= 60;
+			sum.hour += 1;
+		}
 		return sum;
+	}
+
+	public static void increment(Time time, double secs) {
+		time.second += secs;
+
+		if (time.second >= 60.0) {
+			time.second -= 60.0;
+			time.minute += 1;
+		}
+		if (time.minute >= 60) {
+			time.minute -= 60;
+			time.hour += 1;
+		}
 	}
 }
