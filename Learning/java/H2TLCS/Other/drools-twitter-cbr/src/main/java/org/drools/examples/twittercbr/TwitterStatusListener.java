@@ -1,6 +1,6 @@
 package org.drools.examples.twittercbr;
 
-import org.drools.*;
+import org.drools.runtime.rule.WorkingMemoryEntryPoint;
 
 import twitter4j.Status;
 import twitter4j.StatusDeletionNotice;
