@@ -83,7 +83,7 @@ public class TwitterCBR {
 	}
 
 	/**
-	 * Creates a Drools Stateful Knowledge Session
+	 * Creates a Drools State ful Knowledge Session
 	 */
 	private static StatefulKnowledgeSession createKnowledgeSession(
 			final KnowledgeBase kbase) {
