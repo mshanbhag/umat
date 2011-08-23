@@ -3,7 +3,6 @@
  * three exceptions. 1) The name of the constructor is same as the name of the
  * class. 2) Constructors have no return type and no return value. 3) The
  * keyword static is omitted.
- * 
  */
 
 public class Time {
@@ -57,11 +56,11 @@ public class Time {
 	public static void increment(Time time, double secs) {
 		time.second += secs;
 
-		if (time.second >= 60.0) {
+		while (time.second >= 60.0) {
 			time.second -= 60.0;
 			time.minute += 1;
 		}
-		if (time.minute >= 60) {
+		while (time.minute >= 60) {
 			time.minute -= 60;
 			time.hour += 1;
 		}
