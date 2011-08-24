@@ -1,0 +1,25 @@
+
+Tue Jan 04 16:27:35 IST 2011 :: Framework initialized
+
+Tue Jan 04 16:27:46 IST 2011 :: Login request received FOR FUNC3
+
+
+Tue Jan 04 16:27:46 IST 2011 :: Login request received
+
+
+Tue Jan 04 16:27:46 IST 2011 :: getAllClients request received
+
+
+Tue Jan 04 16:27:46 IST 2011 :: Login request received FOR omLoginfunc
+
+
+Tue Jan 04 16:27:46 IST 2011 :: Login successful
+
+Tue Jan 04 16:27:49 IST 2011 :: Logout request received
+
+
+Tue Jan 04 16:27:49 IST 2011 :: nlm unregister request sent
+
+
+Tue Jan 04 16:27:49 IST 2011 :: logout request sent
+
