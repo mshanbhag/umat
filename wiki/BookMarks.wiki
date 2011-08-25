@@ -1,0 +1,11 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+This page contains book marks for pages which provide hints and ideas. 
+
+= Details =
+
+*Jboss Drools Fusion Twitter Example*
+
+[https://github.com/droolsjbpm/droolsjbpm-contributed-experiments/tree/master/twittercbr TwitterCBR]
