@@ -9,3 +9,7 @@ This page contains book marks for pages which provide hints and ideas.
 *Jboss Drools Fusion Twitter Example*
 
 [https://github.com/droolsjbpm/droolsjbpm-contributed-experiments/tree/master/twittercbr TwitterCBR]
+
+Lua as scripting Language for Trading Strategies.
+
+[http://fxcodebase.com/ Lua as Trading Strategy Language]
