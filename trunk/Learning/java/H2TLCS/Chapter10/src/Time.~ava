@@ -5,10 +5,10 @@
  * keyword static is omitted.
  */
 public class Time {
+  // start attributes
+  private int minute;
+  private double second;
   private int hour;
-  int hour;
-  int minute;
-  double second;
 
   // end attributes
   public Time() {
