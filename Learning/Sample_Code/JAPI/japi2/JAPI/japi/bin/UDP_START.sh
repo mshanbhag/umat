@@ -1,0 +1,1 @@
+java -server -Xmx512m com.omnesys.mw.gui.HandleConnection >> UDPOUT`date +%F`.log 2>>UDPError`date +%F`.log &
