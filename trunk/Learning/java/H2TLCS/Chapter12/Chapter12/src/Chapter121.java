@@ -11,6 +11,10 @@ public class Chapter121 {
 			b[i] = numbers[i];
 		}
 		cloneArray(numbers);
+		for (int i = 0; i < 100000000; i++) {
+			double x = Math.random() * 100;
+			System.out.println(x);
+		}
 	}
 
 	public static int[] cloneArray(int[] a) {

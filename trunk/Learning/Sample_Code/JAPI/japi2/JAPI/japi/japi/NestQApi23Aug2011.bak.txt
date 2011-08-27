@@ -1,0 +1,249 @@
+
+Tue Aug 23 14:39:13 GMT+05:30 2011 :: -------Error in  CreateApiProcess-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMResolver@9effe0
+Method    : getMLBList
+Error     : no data
+Raised in : com.omnesys.omne.om.OMConnector@b101cf
+Method    : initConnector
+Error     : unspecified error
+Raised in : com.omnesys.omne.om.OMNEVerse@edf4c8
+Method    : OMopenConnector
+Error     : create error
+Raised in : com.omnesys.omne.om.OMNEVerse@edf4c8
+Method    : initOMNEVerse
+Error     : create error
+
+Tue Aug 23 14:39:13 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@d8fd1a
+Method    : CreateApiProcess
+Error     : unspecified error
+
+Tue Aug 23 14:39:13 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@d8fd1a
+Method    : OmneVerse
+Error     : unspecified error
+
+Tue Aug 23 14:44:37 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Tue Aug 23 14:44:37 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Tue Aug 23 14:54:21 GMT+05:30 2011 :: -------Error in  CreateApiProcess-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMResolver@edf4c8
+Method    : getMLBList
+Error     : no data
+Raised in : com.omnesys.omne.om.OMConnector@61a414
+Method    : initConnector
+Error     : unspecified error
+Raised in : com.omnesys.omne.om.OMNEVerse@5b55a9
+Method    : OMopenConnector
+Error     : create error
+Raised in : com.omnesys.omne.om.OMNEVerse@5b55a9
+Method    : initOMNEVerse
+Error     : create error
+
+Tue Aug 23 14:54:21 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@211b37
+Method    : CreateApiProcess
+Error     : unspecified error
+
+Tue Aug 23 14:54:21 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@211b37
+Method    : OmneVerse
+Error     : unspecified error
+
+Tue Aug 23 14:54:48 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Tue Aug 23 14:54:48 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Tue Aug 23 15:01:30 GMT+05:30 2011 :: -------Error in  CreateApiProcess-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMResolver@1132e76
+Method    : getMLBList
+Error     : no data
+Raised in : com.omnesys.omne.om.OMConnector@4f71a3
+Method    : initConnector
+Error     : unspecified error
+Raised in : com.omnesys.omne.om.OMNEVerse@1ad9b0f
+Method    : OMopenConnector
+Error     : create error
+Raised in : com.omnesys.omne.om.OMNEVerse@1ad9b0f
+Method    : initOMNEVerse
+Error     : create error
+
+Tue Aug 23 15:01:30 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@1e5a5dc
+Method    : CreateApiProcess
+Error     : unspecified error
+
+Tue Aug 23 15:01:30 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@1e5a5dc
+Method    : OmneVerse
+Error     : unspecified error
+
+Tue Aug 23 15:02:09 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Tue Aug 23 15:02:09 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Tue Aug 23 15:18:44 GMT+05:30 2011 :: Framework initialized
+
+Tue Aug 23 15:18:59 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Tue Aug 23 15:18:59 GMT+05:30 2011 :: Login request received
+
+
+Tue Aug 23 15:18:59 GMT+05:30 2011 :: getAllClients request received
+
+
+Tue Aug 23 15:18:59 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Tue Aug 23 15:18:59 GMT+05:30 2011 :: Login successful
+
+Tue Aug 23 15:20:14 GMT+05:30 2011 :: getAllExchanges request received 
+
+Tue Aug 23 15:20:14 GMT+05:30 2011 :: getAllSymbols request received 
+
+Tue Aug 23 15:20:14 GMT+05:30 2011 :: getAllSymbols request received 
+
+Tue Aug 23 15:21:59 GMT+05:30 2011 :: getAllSymbols request received 
+
+Tue Aug 23 15:21:59 GMT+05:30 2011 :: getAllSymbols request received 
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: PlaceOrder request received 
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->1314092662
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MIS
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->263583
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->0799G17-GC
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->B
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->DAY
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->2200
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->2
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->L
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->1
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MADHU1
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->110823000000001
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->nse_cm
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->put order req received
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->C
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->0
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MADHU1
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->om_put_order
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->0799G17-GC
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->dd_servicesc:148
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MADHU1
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: single order response received
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->om_put_order
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->
+
+Tue Aug 23 15:22:08 GMT+05:30 2011 :: single order response received
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: PlaceOrder request received 
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->1314092673
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MIS
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->306978
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->0799G17-GC
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->B
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->DAY
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->2200
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->2
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->L
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->1
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MADHU1
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->110823000000002
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->nse_cm
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->put order req received
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->C
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->0
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MADHU1
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->om_put_order
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->0799G17-GC
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->dd_servicesc:148
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MADHU1
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: single order response received
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->om_put_order
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->
+
+Tue Aug 23 15:22:19 GMT+05:30 2011 :: single order response received
+
+Tue Aug 23 15:53:26 GMT+05:30 2011 :: OrderHistory request received
+
+Tue Aug 23 15:53:42 GMT+05:30 2011 :: getAllClients request received
+

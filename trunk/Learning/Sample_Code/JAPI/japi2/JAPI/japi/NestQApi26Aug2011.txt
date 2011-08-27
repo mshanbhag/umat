@@ -1,0 +1,103 @@
+
+Fri Aug 26 13:03:20 GMT+05:30 2011 :: Framework initialized
+
+Fri Aug 26 13:03:48 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Fri Aug 26 13:58:54 GMT+05:30 2011 :: Framework initialized
+
+Fri Aug 26 14:00:02 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Fri Aug 26 14:00:03 GMT+05:30 2011 :: Login request received
+
+
+Fri Aug 26 14:00:03 GMT+05:30 2011 :: getAllClients request received
+
+
+Fri Aug 26 14:00:03 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Fri Aug 26 14:00:04 GMT+05:30 2011 :: Login successful
+
+Fri Aug 26 14:01:18 GMT+05:30 2011 :: Logout request received
+
+
+Fri Aug 26 14:01:18 GMT+05:30 2011 :: nlm unregister request sent
+
+
+Fri Aug 26 14:01:18 GMT+05:30 2011 :: logout request sent
+
+
+Fri Aug 26 14:05:54 GMT+05:30 2011 :: Framework initialized
+
+Fri Aug 26 14:06:25 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Fri Aug 26 14:06:25 GMT+05:30 2011 :: Login request received
+
+
+Fri Aug 26 14:06:25 GMT+05:30 2011 :: getAllClients request received
+
+
+Fri Aug 26 14:06:25 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Fri Aug 26 14:06:25 GMT+05:30 2011 :: Login successful
+
+Fri Aug 26 14:06:36 GMT+05:30 2011 :: Logout request received
+
+
+Fri Aug 26 14:06:36 GMT+05:30 2011 :: nlm unregister request sent
+
+
+Fri Aug 26 14:06:36 GMT+05:30 2011 :: logout request sent
+
+
+Fri Aug 26 15:46:08 GMT+05:30 2011 :: Framework initialized
+
+Fri Aug 26 15:46:29 GMT+05:30 2011 :: Framework initialized
+
+Fri Aug 26 15:47:19 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Fri Aug 26 15:47:19 GMT+05:30 2011 :: Login request received
+
+
+Fri Aug 26 15:47:19 GMT+05:30 2011 :: getAllClients request received
+
+
+Fri Aug 26 15:47:19 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Fri Aug 26 15:47:19 GMT+05:30 2011 :: Login successful
+
+Fri Aug 26 18:46:30 GMT+05:30 2011 :: Framework initialized
+
+Fri Aug 26 18:52:10 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Fri Aug 26 18:52:10 GMT+05:30 2011 :: Login request received
+
+
+Fri Aug 26 18:52:10 GMT+05:30 2011 :: getAllClients request received
+
+
+Fri Aug 26 18:52:10 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Fri Aug 26 18:52:10 GMT+05:30 2011 :: Couldn't login: user already logged in
+
+Sat Aug 27 08:25:37 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Sat Aug 27 08:25:37 GMT+05:30 2011 :: Login request received
+
+
+Sat Aug 27 08:25:37 GMT+05:30 2011 :: getAllClients request received
+
+
+Sat Aug 27 08:25:37 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Sat Aug 27 08:25:39 GMT+05:30 2011 :: Couldn't login: user already logged in

@@ -1,0 +1,639 @@
+
+Wed Aug 24 12:32:47 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@1a9b4a4
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 12:32:47 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@ed3b53
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 12:32:47 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@ed3b53
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 12:33:35 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 12:33:35 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 15:47:16 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@1e389b8
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 15:47:16 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@155e3ab
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 15:47:16 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@155e3ab
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 15:48:32 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 15:48:32 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 15:49:19 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@127fa03
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 15:49:19 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@110195c
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 15:49:19 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@110195c
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 15:50:01 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 15:50:01 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 15:51:14 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@1dc6a9d
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 15:51:14 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@6d75b6
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 15:51:14 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@6d75b6
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 15:52:52 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 15:52:52 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 15:58:59 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@6d4f30
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 15:58:59 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@7f5bf9
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 15:58:59 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@7f5bf9
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 15:59:37 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 15:59:37 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 16:07:21 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@18ef117
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 16:07:21 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@1f0f8ff
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 16:07:21 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@1f0f8ff
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 16:08:13 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 16:08:13 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 16:11:18 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@1961a84
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 16:11:18 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@197d09f
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 16:11:18 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@197d09f
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 16:11:52 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 16:11:52 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 16:16:05 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@19dd97b
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 16:16:05 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@f1b25e
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 16:16:05 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@f1b25e
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 16:17:35 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 16:17:35 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 16:21:15 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@1179c1c
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 16:21:15 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@c3c44
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 16:21:15 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@c3c44
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 16:22:05 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 16:22:05 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 16:33:42 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@4904d
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 16:33:42 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@d91987
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 16:33:42 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@d91987
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 16:34:23 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 16:34:23 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 17:17:54 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@6a150e
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 17:17:54 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@16f3ed7
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 17:17:54 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@16f3ed7
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 17:18:25 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 17:18:25 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 17:21:13 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@6d4f30
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 17:21:13 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@7f5bf9
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 17:21:13 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@7f5bf9
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 17:21:34 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 17:21:34 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 17:26:16 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@6a150e
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 17:26:16 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@16f3ed7
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 17:26:16 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@16f3ed7
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 17:26:45 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 17:26:45 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 17:34:32 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@19dd97b
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 17:34:32 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@f1b25e
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 17:34:32 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@f1b25e
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 17:34:59 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 17:34:59 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 17:38:24 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@1afe460
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 17:38:24 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@1a544a5
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 17:38:24 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@1a544a5
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 17:40:48 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@929ba3
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 17:40:48 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@d1f0ad
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 17:40:48 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@d1f0ad
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 17:41:20 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 17:41:20 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 17:44:35 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@18ef117
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 17:44:35 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@1f0f8ff
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 17:44:35 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@1f0f8ff
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 17:46:26 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@18771dc
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 17:46:26 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@d997f9
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 17:46:26 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@d997f9
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 17:46:48 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 17:46:48 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 17:49:44 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@16f4ce0
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 17:49:44 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@d38c3d
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 17:49:44 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@d38c3d
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 17:50:08 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 17:50:08 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 17:51:43 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@1961a84
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 17:51:43 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@197d09f
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 17:51:43 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@197d09f
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 17:52:07 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 17:52:07 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 18:09:43 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@6d4f30
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 18:09:43 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@7f5bf9
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 18:09:43 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@7f5bf9
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 18:10:19 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 18:10:19 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 18:12:21 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@127fa03
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 18:12:21 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@110195c
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 18:12:21 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@110195c
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 18:22:24 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@a84b47
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 18:22:24 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@30b601
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 18:22:24 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@30b601
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 18:24:57 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@6edf8f
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 18:24:57 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@1f82f17
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 18:24:57 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@1f82f17
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 18:25:54 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 18:26:30 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 18:27:58 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 18:27:58 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 18:28:27 GMT+05:30 2011 :: -------Error in  AddOmneLibraryEnc-----com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.omne.om.OMFileStream@1976073
+Method    : OMFileStream
+Error     : os error
+
+Wed Aug 24 18:28:27 GMT+05:30 2011 :: Error in initializing OV: com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@11cb14a
+Method    : AddOmneLibraryEnc
+Error     : unspecified error
+
+Wed Aug 24 18:28:27 GMT+05:30 2011 :: Framework couldn't be initialized
+com.omnesys.omne.om.OMException
+
+Raised in : com.omnesys.nestq.resources.OmneVerse@11cb14a
+Method    : OmneVerse
+Error     : unspecified error
+
+Wed Aug 24 18:30:18 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 18:31:12 GMT+05:30 2011 :: Login request could not be sent
+java.lang.NullPointerException
+
+Wed Aug 24 18:48:30 GMT+05:30 2011 :: Framework initialized
+
+Wed Aug 24 18:49:23 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 18:49:23 GMT+05:30 2011 :: Login request received
+
+
+Wed Aug 24 18:49:23 GMT+05:30 2011 :: getAllClients request received
+
+
+Wed Aug 24 18:49:23 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Wed Aug 24 18:49:23 GMT+05:30 2011 :: Couldn't login: user already logged in
+
+Wed Aug 24 18:51:44 GMT+05:30 2011 :: Framework initialized
+
+Wed Aug 24 18:52:22 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Wed Aug 24 18:52:22 GMT+05:30 2011 :: Login request received
+
+
+Wed Aug 24 18:52:22 GMT+05:30 2011 :: getAllClients request received
+
+
+Wed Aug 24 18:52:22 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Wed Aug 24 18:52:22 GMT+05:30 2011 :: Couldn't login: user already logged in
