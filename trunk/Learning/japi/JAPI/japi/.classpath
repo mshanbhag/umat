@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/JAPI/japi/japi/OmneVerse.15.0.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/JAPI/japi/japi/InvestorNestQApiReleaseVersion.jar" sourcepath="C:/JAPI/japi/japi/InvestorNestQApiReleaseVersion.jar"/>
+	<classpathentry kind="lib" path="C:/JAPI/japi/japi/swing-layout-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/JAPI/japi/japi/swing-worker-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAPI/japi/japi/beansbinding-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/JAPI/japi/japi/appframework-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/JAPI/japi/japi/InvSample.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

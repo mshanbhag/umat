@@ -1,0 +1,145 @@
+
+Tue Aug 23 18:25:13 GMT+05:30 2011 :: Framework initialized
+
+Tue Aug 23 18:25:27 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Tue Aug 23 18:25:27 GMT+05:30 2011 :: Login request received
+
+
+Tue Aug 23 18:25:27 GMT+05:30 2011 :: getAllClients request received
+
+
+Tue Aug 23 18:25:27 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Tue Aug 23 18:25:27 GMT+05:30 2011 :: Couldn't login: user already logged in
+
+Tue Aug 23 18:48:32 GMT+05:30 2011 :: Framework initialized
+
+Tue Aug 23 18:49:31 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Tue Aug 23 18:49:31 GMT+05:30 2011 :: Login request received
+
+
+Tue Aug 23 18:49:31 GMT+05:30 2011 :: getAllClients request received
+
+
+Tue Aug 23 18:49:31 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Tue Aug 23 18:49:31 GMT+05:30 2011 :: Couldn't login: user already logged in
+
+Tue Aug 23 18:52:25 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Tue Aug 23 18:52:25 GMT+05:30 2011 :: Login request received
+
+
+Tue Aug 23 18:52:25 GMT+05:30 2011 :: getAllClients request received
+
+
+Tue Aug 23 18:52:25 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Tue Aug 23 18:52:25 GMT+05:30 2011 :: Login successful
+
+Tue Aug 23 18:52:58 GMT+05:30 2011 :: Framework initialized
+
+Tue Aug 23 18:53:09 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Tue Aug 23 18:53:09 GMT+05:30 2011 :: Login request received
+
+
+Tue Aug 23 18:53:09 GMT+05:30 2011 :: getAllClients request received
+
+
+Tue Aug 23 18:53:09 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Tue Aug 23 18:53:09 GMT+05:30 2011 :: Couldn't login: user already logged in
+
+Tue Aug 23 18:54:37 GMT+05:30 2011 :: Framework initialized
+
+Tue Aug 23 18:55:58 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Tue Aug 23 18:55:58 GMT+05:30 2011 :: Login request received
+
+
+Tue Aug 23 18:55:58 GMT+05:30 2011 :: getAllClients request received
+
+
+Tue Aug 23 18:55:58 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Tue Aug 23 18:55:58 GMT+05:30 2011 :: Login successful
+
+Tue Aug 23 19:12:44 GMT+05:30 2011 :: Logout request received
+
+
+Tue Aug 23 19:12:44 GMT+05:30 2011 :: nlm unregister request sent
+
+
+Tue Aug 23 19:12:44 GMT+05:30 2011 :: logout request sent
+
+
+Tue Aug 23 19:18:00 GMT+05:30 2011 :: Framework initialized
+
+Tue Aug 23 19:18:17 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Tue Aug 23 19:18:17 GMT+05:30 2011 :: Login request received
+
+
+Tue Aug 23 19:18:17 GMT+05:30 2011 :: getAllClients request received
+
+
+Tue Aug 23 19:18:17 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Tue Aug 23 19:18:17 GMT+05:30 2011 :: Login successful
+
+Tue Aug 23 19:26:19 GMT+05:30 2011 :: getAllClients request received
+
+
+Tue Aug 23 19:26:23 GMT+05:30 2011 :: Logout request received
+
+
+Tue Aug 23 19:26:23 GMT+05:30 2011 :: nlm unregister request sent
+
+
+Tue Aug 23 19:26:23 GMT+05:30 2011 :: logout request sent
+
+
+Tue Aug 23 19:26:55 GMT+05:30 2011 :: Framework initialized
+
+Tue Aug 23 19:31:12 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Tue Aug 23 19:31:12 GMT+05:30 2011 :: Login request received
+
+
+Tue Aug 23 19:31:12 GMT+05:30 2011 :: getAllClients request received
+
+
+Tue Aug 23 19:31:12 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Tue Aug 23 19:31:13 GMT+05:30 2011 :: Login successful
+
+Tue Aug 23 19:34:34 GMT+05:30 2011 :: TradeBook request received
+
+Tue Aug 23 19:34:51 GMT+05:30 2011 :: getAllClients request received
+
+
+Tue Aug 23 19:34:55 GMT+05:30 2011 :: Logout request received
+
+
+Tue Aug 23 19:34:55 GMT+05:30 2011 :: nlm unregister request sent
+
+
+Tue Aug 23 19:34:55 GMT+05:30 2011 :: logout request sent
+
