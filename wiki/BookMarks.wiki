@@ -13,3 +13,7 @@ This page contains book marks for pages which provide hints and ideas.
 Lua as scripting Language for Trading Strategies.
 
 [http://fxcodebase.com/ Lua as Trading Strategy Language]
+
+Fantastic Java Code Beautifier
+
+[http://www.tiobe.com/index.php/content/products/jacobe/Eclipse_Jacobe_Plug-in.html Jacobe]
