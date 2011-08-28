@@ -1,0 +1,424 @@
+
+Thu Aug 25 11:22:53 GMT+05:30 2011 :: Framework initialized
+
+Thu Aug 25 11:23:36 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Thu Aug 25 11:23:36 GMT+05:30 2011 :: Login request received
+
+
+Thu Aug 25 11:23:36 GMT+05:30 2011 :: getAllClients request received
+
+
+Thu Aug 25 11:23:36 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Thu Aug 25 11:23:38 GMT+05:30 2011 :: Login successful
+
+Thu Aug 25 11:24:35 GMT+05:30 2011 :: getAllExchanges request received 
+
+Thu Aug 25 11:24:35 GMT+05:30 2011 :: getAllSymbols request received 
+
+Thu Aug 25 11:24:35 GMT+05:30 2011 :: getAllSymbols request received 
+
+Thu Aug 25 11:25:56 GMT+05:30 2011 :: getAllClients request received
+
+
+Thu Aug 25 11:29:01 GMT+05:30 2011 :: Framework initialized
+
+Thu Aug 25 11:29:28 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Thu Aug 25 11:29:28 GMT+05:30 2011 :: Login request received
+
+
+Thu Aug 25 11:29:28 GMT+05:30 2011 :: getAllClients request received
+
+
+Thu Aug 25 11:29:28 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Thu Aug 25 11:29:28 GMT+05:30 2011 :: Couldn't login: user already logged in
+
+Thu Aug 25 11:52:28 GMT+05:30 2011 :: Framework initialized
+
+Thu Aug 25 11:53:02 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Thu Aug 25 11:53:02 GMT+05:30 2011 :: Login request received
+
+
+Thu Aug 25 11:53:02 GMT+05:30 2011 :: getAllClients request received
+
+
+Thu Aug 25 11:53:02 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Thu Aug 25 11:53:02 GMT+05:30 2011 :: Couldn't login: user already logged in
+
+Thu Aug 25 12:10:41 GMT+05:30 2011 :: Framework initialized
+
+Thu Aug 25 12:11:10 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Thu Aug 25 12:11:10 GMT+05:30 2011 :: Login request received
+
+
+Thu Aug 25 12:11:10 GMT+05:30 2011 :: getAllClients request received
+
+
+Thu Aug 25 12:11:10 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Thu Aug 25 12:11:10 GMT+05:30 2011 :: Couldn't login: user already logged in
+
+Thu Aug 25 12:12:35 GMT+05:30 2011 :: Framework initialized
+
+Thu Aug 25 12:13:05 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Thu Aug 25 12:13:05 GMT+05:30 2011 :: Login request received
+
+
+Thu Aug 25 12:13:05 GMT+05:30 2011 :: getAllClients request received
+
+
+Thu Aug 25 12:13:05 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Thu Aug 25 12:13:05 GMT+05:30 2011 :: Login successful
+
+Thu Aug 25 12:17:40 GMT+05:30 2011 :: Framework initialized
+
+Thu Aug 25 12:17:57 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Thu Aug 25 12:17:57 GMT+05:30 2011 :: Login request received
+
+
+Thu Aug 25 12:17:57 GMT+05:30 2011 :: getAllClients request received
+
+
+Thu Aug 25 12:17:57 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Thu Aug 25 12:17:57 GMT+05:30 2011 :: Login successful
+
+Thu Aug 25 12:38:20 GMT+05:30 2011 :: getAllExchanges request received 
+
+Thu Aug 25 12:38:20 GMT+05:30 2011 :: getAllSymbols request received 
+
+Thu Aug 25 12:38:20 GMT+05:30 2011 :: getAllSymbols request received 
+
+Thu Aug 25 12:40:28 GMT+05:30 2011 :: getAllSymbols request received 
+
+Thu Aug 25 12:40:28 GMT+05:30 2011 :: getAllSymbols request received 
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: PlaceOrder request received 
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->1314255826
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->NRML
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->952330
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->RELIANCE11SEP11OCTFUT
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->B
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->DAY
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->0
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->5
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MKT
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->1
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MADHU1
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->110825000000001
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->nse_cm
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->put order req received
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->C
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->0
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MADHU1
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->om_put_order
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->RELIANCE11SEP11OCTFUT
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->dd_servicesc:146
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MADHU1
+
+Thu Aug 25 12:41:19 GMT+05:30 2011 :: single order response received
+
+Thu Aug 25 12:41:20 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->om_put_order
+
+Thu Aug 25 12:41:20 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->
+
+Thu Aug 25 12:41:20 GMT+05:30 2011 :: single order response received
+
+Thu Aug 25 12:42:05 GMT+05:30 2011 :: getAllExchanges request received 
+
+Thu Aug 25 12:42:05 GMT+05:30 2011 :: getAllSymbols request received 
+
+Thu Aug 25 12:42:05 GMT+05:30 2011 :: getAllSymbols request received 
+
+Thu Aug 25 12:42:27 GMT+05:30 2011 :: Get Position request received
+
+Thu Aug 25 12:43:02 GMT+05:30 2011 :: Get Position request received
+
+Thu Aug 25 12:43:09 GMT+05:30 2011 :: getAllSymbols request received 
+
+Thu Aug 25 12:43:09 GMT+05:30 2011 :: getAllSymbols request received 
+
+Thu Aug 25 12:43:14 GMT+05:30 2011 :: Get Position request received
+
+Thu Aug 25 12:43:24 GMT+05:30 2011 :: Get Position request received
+
+Thu Aug 25 13:14:15 GMT+05:30 2011 :: Framework initialized
+
+Thu Aug 25 13:14:36 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Thu Aug 25 13:14:36 GMT+05:30 2011 :: Login request received
+
+
+Thu Aug 25 13:14:36 GMT+05:30 2011 :: getAllClients request received
+
+
+Thu Aug 25 13:14:36 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Thu Aug 25 13:14:36 GMT+05:30 2011 :: Login successful
+
+Thu Aug 25 13:15:49 GMT+05:30 2011 :: Framework initialized
+
+Thu Aug 25 13:16:16 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Thu Aug 25 13:16:16 GMT+05:30 2011 :: Login request received
+
+
+Thu Aug 25 13:16:16 GMT+05:30 2011 :: getAllClients request received
+
+
+Thu Aug 25 13:16:16 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Thu Aug 25 13:16:16 GMT+05:30 2011 :: Couldn't login: user already logged in
+
+Thu Aug 25 13:16:22 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Thu Aug 25 13:21:33 GMT+05:30 2011 :: Framework initialized
+
+Thu Aug 25 13:21:55 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Thu Aug 25 13:21:55 GMT+05:30 2011 :: Login request received
+
+
+Thu Aug 25 13:21:55 GMT+05:30 2011 :: getAllClients request received
+
+
+Thu Aug 25 13:21:55 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Thu Aug 25 13:21:55 GMT+05:30 2011 :: Couldn't login: user already logged in
+
+Thu Aug 25 14:39:44 GMT+05:30 2011 :: Framework initialized
+
+Thu Aug 25 14:40:11 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Thu Aug 25 14:40:11 GMT+05:30 2011 :: Login request received
+
+
+Thu Aug 25 14:40:11 GMT+05:30 2011 :: getAllClients request received
+
+
+Thu Aug 25 14:40:11 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Thu Aug 25 14:40:11 GMT+05:30 2011 :: Login successful
+
+Thu Aug 25 19:20:55 GMT+05:30 2011 :: Logout request received
+
+
+Thu Aug 25 19:20:55 GMT+05:30 2011 :: nlm unregister request sent
+
+
+Thu Aug 25 19:20:55 GMT+05:30 2011 :: logout request sent
+
+
+Thu Aug 25 19:24:22 GMT+05:30 2011 :: Framework initialized
+
+Thu Aug 25 19:24:49 GMT+05:30 2011 :: Login request received FOR FUNC3
+
+
+Thu Aug 25 19:24:49 GMT+05:30 2011 :: Login request received
+
+
+Thu Aug 25 19:24:49 GMT+05:30 2011 :: getAllClients request received
+
+
+Thu Aug 25 19:24:49 GMT+05:30 2011 :: Login request received FOR omLoginfunc
+
+
+Thu Aug 25 19:24:49 GMT+05:30 2011 :: Login successful
+
+Thu Aug 25 19:25:14 GMT+05:30 2011 :: getAllExchanges request received 
+
+Thu Aug 25 19:25:14 GMT+05:30 2011 :: getAllSymbols request received 
+
+Thu Aug 25 19:25:14 GMT+05:30 2011 :: getAllSymbols request received 
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: PlaceOrder request received 
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->1314280132
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->NRML
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->506021
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->EXIDEIND11AUG250CE
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->B
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->IOC
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->0
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->1
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MKT
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->1
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MADHU1
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->110825000000002
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->nse_fo
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->25-08-2011
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->put order req received
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->C
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->1
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MADHU1
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->om_put_order
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->EXIDEIND11AUG250CE
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->dd_servicesc:153
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MADHU1
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: single order response received
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->om_put_order
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->
+
+Thu Aug 25 19:26:25 GMT+05:30 2011 :: single order response received
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: PlaceOrder request received 
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->1314280140
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->NRML
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->283270
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->EXIDEIND11AUG250CE
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->B
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->IOC
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->0
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->1
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MKT
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->1
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MADHU1
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->110825000000003
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->nse_fo
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->25-08-2011
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->put order req received
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->C
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->1
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MADHU1
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->om_put_order
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->EXIDEIND11AUG250CE
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->dd_servicesc:153
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->MADHU1
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: single order response received
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->om_put_order
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: Order Update  response in NestQPage9-------------------------->
+
+Thu Aug 25 19:26:33 GMT+05:30 2011 :: single order response received
+
+Thu Aug 25 19:27:00 GMT+05:30 2011 :: getAllExchanges request received 
+
+Thu Aug 25 19:27:00 GMT+05:30 2011 :: getAllSymbols request received 
+
+Thu Aug 25 19:27:00 GMT+05:30 2011 :: getAllSymbols request received 
+
+Thu Aug 25 19:27:10 GMT+05:30 2011 :: Get Position request received
+
+Thu Aug 25 19:28:42 GMT+05:30 2011 :: Logout request received
+
+
+Thu Aug 25 19:28:42 GMT+05:30 2011 :: nlm unregister request sent
+
+
+Thu Aug 25 19:28:42 GMT+05:30 2011 :: logout request sent
+
+
+Thu Aug 25 19:43:27 GMT+05:30 2011 :: Framework initialized
