@@ -3,12 +3,12 @@
  */
 public class Chapter1 {
 
-	/**
-	 * Main Class
-	 * 
-	 * @param args
-	 */
-	public static void main(String[] args) {
-
-	}
+    /**
+     * Main Class
+     * 
+     * @param args
+     */
+    public static void main(String[] args) {
+        System.out.println("I Rule");		
+    }
 }
