@@ -1,0 +1,12 @@
+package droolsbook
+
+rule "Your First Rule"
+	
+	when
+		#conditions
+		Account( balance < 100 ) 
+	then 
+		#actions
+		System.out.println("Account balance is " + "less than 100.");
+
+end
