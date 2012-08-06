@@ -24,4 +24,10 @@ class Ping {
 		zoop();
 		System.out.print("I ");
 	}
+   
+  public static void main(String[] args){
+  
+  System.out.println("Hellow world");
+  }
+  
 }
